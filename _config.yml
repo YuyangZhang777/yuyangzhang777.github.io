@@ -160,7 +160,7 @@ content:
 
       Look at this cool image  
       ![gf](/images/test.gif "gf")
-      ![trees](/images/landscape-trees.gif "trees")
+      ![trees](/images/landscape-trees.jpg "trees")
 
 # Footer
 footer_show_references: true
