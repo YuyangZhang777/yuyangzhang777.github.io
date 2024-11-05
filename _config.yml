@@ -74,17 +74,62 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-          - aaaaa
-          - bbbb
-          - ccccc
+          -  **Yuyang Zhang/***, Zhuoli Tian*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive Ex
+            ploration and Assistance under Limited Communication. IEEE International Conference on Robotics
+            and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
+          -  Zhuoli Tian, **Yuyang Zhang**, Jinsheng Wei, Meng Guo. iHERO: Interactive Human-oriented Explo
+            ration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft,
+            Netherlands, 2024.
+          - **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe
+            Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         link_text: Project Website
-        
+
+      - layout: top-middle
+        title: Patent
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          -  Meng Guo, **Yuyang Zhang**, Zhuoli Tian, Jinsheng Wei. System, method and device for multi-robot
+            collaborative exploration, Patent, ZL 2024 1 0642067.9, 2024.08.09.
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        link_text: Project Website
+
+      - layout: top-middle
+        title: Thesis
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          - **YuyangZhang**, YaoJin. DevelopmentofanAR-basedSketch-styleCeramicModelingSystem. Bach
+            elor Thesis, Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses"
+            award of Zhejiang Sci-Tech University)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        link_text: Project Website
+
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
