@@ -54,9 +54,12 @@ about_content: | # this will include new lines to allow paragraphs
   specializing in robotics in the Department of Mechanical Engineering. I work in Meng's
   lab, led by Assistant Professor Meng Guo. 
   
-  My research work includes multi-robot systems,
-  human-robot collaboration and task and motion planning for robots.
-  
+  My research work includes multi-robot systems, human-robot collaboration and task and motion planning for robots.
+  I have published two papers in top conferences(**CDC** and **RSS**), and my third paper is currently under review at **ICRA**. 
+  I have designed and developed many algorithms in multi-robot systems, task and motion planning, human-robot interaction and so on. 
+  I'm familiar with Linux and ROS, and I have carried out a lot of simulation and real robots experiments on UGVs and UAVs.
+  I have worked on several robotics projects and am familiar with <mark>ROS</mark>, 
+  and I have carried out a lot of simulation and real robots experiments on <mark>UGVs</mark> and <mark>UAVs</mark>.
  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -77,16 +80,19 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          -  **Yuyang Zhang/***, Zhuoli Tian*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive Ex
-            ploration and Assistance under Limited Communication. IEEE International Conference on Robotics
+          -  **Yuyang Zhang\***, Zhuoli Tian\*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive 
+          Exploration and Assistance under Limited Communication. IEEE International Conference on Robotics
             and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
+          ![gf](/images/test.gif "gf")
           -  Zhuoli Tian, **Yuyang Zhang**, Jinsheng Wei, Meng Guo. iHERO: Interactive Human-oriented Explo
             ration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft,
             Netherlands, 2024.
+          ![trees](/images/landscape-trees.jpg "trees")
           - **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe
             Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        link: github.com/sproogen
         link_text: Project Website
 
       - layout: top-middle
@@ -105,8 +111,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           -  Meng Guo, **Yuyang Zhang**, Zhuoli Tian, Jinsheng Wei. System, method and device for multi-robot
             collaborative exploration, Patent, ZL 2024 1 0642067.9, 2024.08.09.
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         link_text: Project Website
 
       - layout: top-middle
@@ -123,29 +129,14 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - **YuyangZhang**, YaoJin. DevelopmentofanAR-basedSketch-styleCeramicModelingSystem. Bach
+          - **YuyangZhang**, YaoJin. Development of an AR-based Sketch-style Ceramic Modeling System. Bach
             elor Thesis, Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses"
             award of Zhejiang Sci-Tech University)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         link_text: Project Website
 
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  
+      
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -191,7 +182,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I study in PKU and majored in robotics. I have worked on several robotics projects and published three papers, 
           designed and developed many algorithms in multi-robot systems, task and motion planning, human-robot interaction and so on. 
-          I'm familiar with Linux and ROS, and I have carried out a lot of simulation and hardware experiments on UGVs and UAVs.
+          I'm familiar with Linux and ROS, and I have carried out a lot of simulation and real robots experiments on UGVs and UAVs.
       - layout: left
         title: Zhejiang Sci-Tech University
         caption: Sep 2014 - Jun 2018
