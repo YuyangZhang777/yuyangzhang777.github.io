@@ -61,29 +61,29 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education # Title for the section
-  layout: list # Type of content section (list/text)
-  content:
-    - layout: left
-      title: Peking University
-      caption: Sep 2022 - Current
-      sub_title: Master's Degree, Robotics
-      # quote: >
-      #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-      description: | # this will include new lines to allow paragraphs
-        I'm currently a third year master student at College of Engineering, Peking University, China,
-        specializing in robotics in the Department of Mechanical Engineering. I will graduate in June 2025. 
-        During the two and a half year, I have worked on many robotics projects and papers, 
-        designed and developed many algorithms and accumulated a plenty of experiment experience both in simulation and real robots.
-    - layout: left
-      title: Zhejiang Sci-Tech University
-      caption: Sep 2014 - Jun 2018
-      sub_title: Bachelor's Degree, Digital media technology
-      # quote: >
-      #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-      description: | # this will include new lines to allow paragraphs
-        I studied in ZSTU and majored in digital media technology. It's a interdisciplinary major that includes computer science and art design. 
-        After four years study, I become both a programmer and a designer. 
-        I mastered many Adobe softwares such as Illustrator, Photoshop, Premier and so on, which I believe are essential skills for academic paper writing.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Peking University
+        caption: Sep 2022 - Current
+        sub_title: Master's Degree, Robotics
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I'm currently a third year master student at College of Engineering, Peking University, China,
+          specializing in robotics in the Department of Mechanical Engineering. I will graduate in June 2025. 
+          During the two and a half year, I have worked on many robotics projects and papers, 
+          designed and developed many algorithms and accumulated a plenty of experiment experience both in simulation and real robots.
+      - layout: left
+        title: Zhejiang Sci-Tech University
+        caption: Sep 2014 - Jun 2018
+        sub_title: Bachelor's Degree, Digital media technology
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I studied in ZSTU and majored in digital media technology. It's a interdisciplinary major that includes computer science and art design. 
+          After four years study, I become both a programmer and a designer. 
+          I mastered many Adobe softwares such as Illustrator, Photoshop, Premier and so on, which I believe are essential skills for academic paper writing.
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
