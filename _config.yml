@@ -102,7 +102,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - ##### **Yuyang Zhang\***, Zhuoli Tian\*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication. IEEE International Conference on Robotics and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
+          - #### **Yuyang Zhang\***, Zhuoli Tian\*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication. IEEE International Conference on Robotics and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
           
           <div align = "center">
             <img src="/images/icra.png" width="80%" align="center"/>
@@ -113,7 +113,7 @@ content:
           Robots in assistance mode can form a communication chain, enabling human operator to assist 
           and interact with robots in various multimedia ways, such as video transmission and remote control.*
 
-          - #####  Zhuoli Tian, **Yuyang Zhang**, Jinsheng Wei, Meng Guo. iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft, Netherlands, 2024.
+          - ####  Zhuoli Tian, **Yuyang Zhang**, Jinsheng Wei, Meng Guo. iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft, Netherlands, 2024.
 
           <div align = "center">
             <img src="/images/rss.png" width="80%" align="center"/>
@@ -123,7 +123,7 @@ content:
           collaborative exploration and supervision under scarce communication. The human operator 
           can get updated data in time, prioritize certain region and move within the explored area.*
 
-          - ##### **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
+          - #### **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
           
           <div align = "center">
             <img src="/images/cdc.png" width="80%" align="center"/>
@@ -147,7 +147,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - ###  Meng Guo, **Yuyang Zhang**, Zhuoli Tian, Jinsheng Wei. System, method and device for multi-robot collaborative exploration, Patent, ZL 2024 1 0642067.9, 2024.08.09.
+          - ####  Meng Guo, **Yuyang Zhang**, Zhuoli Tian, Jinsheng Wei. System, method and device for multi-robot collaborative exploration, Patent, ZL 2024 1 0642067.9, 2024.08.09.
 
 
       - layout: top-middle
