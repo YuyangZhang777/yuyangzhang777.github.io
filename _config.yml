@@ -106,7 +106,7 @@ content:
           Exploration and Assistance under Limited Communication. IEEE International Conference on Robotics
             and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
 
-          ![icra](/images/icra.png "icra")
+          ![img](/images/icra.png )
 
           *This work presents a human-centric interactive exploration and assistance framework under limited communication. 
           Robots can switch between exploration mode and assistance mode. 
@@ -117,7 +117,7 @@ content:
             ration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft,
             Netherlands, 2024.
 
-          ![rss](/images/rss.png "rss")
+          ![img](/images/rss.png )
 
           *This work proposes an interactive human-oriented online coordination framework for
           collaborative exploration and supervision under scarce communication. The human operator 
@@ -126,7 +126,7 @@ content:
           - **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe
             Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
 
-          ![cdc](/images/cdc.png "cdc")
+          ![img](/images/cdc.png )
 
           *This work addresses the online motion planning problem of mobile robots under complex high-level tasks.
           The robot motion is modeled as an uncertain Markov Decision Process while the tasks are specified as LTL formulas.*
@@ -168,7 +168,8 @@ content:
             Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses"
             award of Zhejiang Sci-Tech University)
 
-          ![bachelor](/images/bachelor.png "bachelor")
+          <img src="/images/cdc.png" alt="cdc" title="cdc" width="50%"/>
+
           *I developed an Android application to recognize the semantic information from a user's sketch and generate a 3D ceramic model 
           to assist the ceramic design.*
       
