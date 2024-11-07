@@ -50,15 +50,13 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm currently a third year master student at College of Engineering, Peking University, China,
-  specializing in robotics in the Department of Mechanical Engineering. I work in Meng's
-  lab, led by Assistant Professor Meng Guo. 
+  Hi, I'm currently a third year master student in Peking University,
+  specializing in robotics. I work in Meng's lab, led by Assistant Professor Meng Guo. 
   
   My research work includes multi-robot systems, human-robot collaboration and task and motion planning for robots.
   I have published two papers in top conferences(**CDC** and **RSS**), and my third paper is currently under review at **ICRA**. 
   I have designed and developed many algorithms in multi-robot systems, task and motion planning, human-robot interaction and so on. 
-  I'm familiar with Linux and ROS, and I have carried out a lot of simulation and real robots experiments on UGVs and UAVs.
-  I have worked on several robotics projects and am familiar with <mark>ROS</mark>, 
+  I have worked on several robotics projects and am familiar with <mark>ROS</mark>,  
   and I have carried out a lot of simulation and real robots experiments on <mark>UGVs</mark> and <mark>UAVs</mark>.
  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -83,17 +81,26 @@ content:
           -  **Yuyang Zhang\***, Zhuoli Tian\*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive 
           Exploration and Assistance under Limited Communication. IEEE International Conference on Robotics
             and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
-          ![gf](/images/test.gif "gf")
+
+          ![icra](/images/icra.png "icra")
+
+          test text
+
           -  Zhuoli Tian, **Yuyang Zhang**, Jinsheng Wei, Meng Guo. iHERO: Interactive Human-oriented Explo
             ration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft,
             Netherlands, 2024.
-          ![trees](/images/landscape-trees.jpg "trees")
+
+          ![rss](/images/rss.png "rss")
+
+          test text2
+
           - **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe
             Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        link: github.com/sproogen
-        link_text: Project Website
+
+          ![cdc](/images/cdc.png "cdc")
+
+          test text3
+          
 
       - layout: top-middle
         title: Patent
@@ -111,9 +118,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           -  Meng Guo, **Yuyang Zhang**, Zhuoli Tian, Jinsheng Wei. System, method and device for multi-robot
             collaborative exploration, Patent, ZL 2024 1 0642067.9, 2024.08.09.
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        link_text: Project Website
+
 
       - layout: top-middle
         title: Thesis
@@ -132,9 +137,6 @@ content:
           - **YuyangZhang**, YaoJin. Development of an AR-based Sketch-style Ceramic Modeling System. Bach
             elor Thesis, Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses"
             award of Zhejiang Sci-Tech University)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        link_text: Project Website
 
       
   - title: Projects # Title for the section
@@ -180,9 +182,10 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I study in PKU and majored in robotics. I have worked on several robotics projects and published three papers, 
-          designed and developed many algorithms in multi-robot systems, task and motion planning, human-robot interaction and so on. 
-          I'm familiar with Linux and ROS, and I have carried out a lot of simulation and real robots experiments on UGVs and UAVs.
+          I'm currently a third year master student at College of Engineering, Peking University, China,
+          specializing in robotics in the Department of Mechanical Engineering. I will graduate in June 2025. 
+          During the two and a half year, I have worked on many robotics projects and papers, 
+          designed and developed many algorithms and accumulated a plenty of experiment experience both in simulation and real robots.
       - layout: left
         title: Zhejiang Sci-Tech University
         caption: Sep 2014 - Jun 2018
@@ -190,20 +193,10 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I studied in ZSTU and majored in digital media technology. I learned a lot about computer science and art design, and I am both a programmer and a designer.
+          I studied in ZSTU and majored in digital media technology. It's a interdisciplinary major that includes computer science and art design. 
+          After four years study, I become both a programmer and a designer. 
+          I mastered many Adobe softwares such as Illustrator, Photoshop, Premier and so on, which I believe are essential skills for academic paper writing.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![gf](/images/test.gif "gf")
-      ![trees](/images/landscape-trees.jpg "trees")
 
 # Footer
 footer_show_references: true
