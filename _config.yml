@@ -147,7 +147,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - ####  Meng Guo, **Yuyang Zhang**, Zhuoli Tian, Jinsheng Wei. System, method and device for multi-robot collaborative exploration, Patent, ZL 2024 1 0642067.9, 2024.08.09.
+          - ####  Meng Guo, **Yuyang Zhang**, Zhuoli Tian, Jinsheng Wei. System, method and device for multi-robot collaborative exploration, **Patent**, ZL 2024 1 0642067.9, 2024.08.09.
 
 
       - layout: top-middle
@@ -164,7 +164,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - #### **YuyangZhang**, YaoJin. Development of an AR-based Sketch-style Ceramic Modeling System. Bachelor Thesis, Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses" award of Zhejiang Sci-Tech University)
+          - #### **YuyangZhang**, YaoJin. Development of an AR-based Sketch-style Ceramic Modeling System. **Bachelor Thesis**, Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses" award of Zhejiang Sci-Tech University)
 
           <div align = "center">
             <img src="/images/bachelor.png" width="50%" align="center"/>
