@@ -84,7 +84,9 @@ content:
 
           ![icra](/images/icra.png "icra")
 
-          test text
+          *This paper presents a human-centric interactive exploration and assistance framework. 
+          Multiple robots can form a communication chain, enabling human operator to assist 
+          and interact with robots in various multimedia ways, such as video transmission and remote control.*
 
           -  Zhuoli Tian, **Yuyang Zhang**, Jinsheng Wei, Meng Guo. iHERO: Interactive Human-oriented Explo
             ration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft,
@@ -92,14 +94,17 @@ content:
 
           ![rss](/images/rss.png "rss")
 
-          test text2
+          *This work proposes an interactive human-oriented online coordination framework for
+          collaborative exploration and supervision under scarce communication. The human operator 
+          can get updated data in time, prioritize certain region and move within the explored area.*
 
           - **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe
             Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
 
           ![cdc](/images/cdc.png "cdc")
 
-          test text3
+          *This work addresses the online motion planning problem of mobile robots under complex high-level tasks.
+          The robot motion is modeled as an uncertain Markov Decision Process while the tasks are specified as LTL formulas.*
           
 
       - layout: top-middle
