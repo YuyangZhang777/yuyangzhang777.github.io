@@ -168,7 +168,7 @@ content:
             Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses"
             award of Zhejiang Sci-Tech University)
 
-          <img src="/images/cdc.png" alt="cdc" title="cdc" width="50%"/>
+          <img src="/images/cdc.png" width="50%"/>
 
           *I developed an Android application to recognize the semantic information from a user's sketch and generate a 3D ceramic model 
           to assist the ceramic design.*
