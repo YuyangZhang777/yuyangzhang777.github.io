@@ -102,11 +102,9 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - ### **Yuyang Zhang\***, Zhuoli Tian\*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive 
-          Exploration and Assistance under Limited Communication. IEEE International Conference on Robotics
-            and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
+          - #### **Yuyang Zhang\***, Zhuoli Tian\*, Jinsheng Wei, Meng Guo. FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication. IEEE International Conference on Robotics and Automation (**ICRA**), Atlanta, USA, 2025. (**Under review**)
 
-          ![img](/images/icra.png )
+          <img src="/images/icra.png" width="80%" align="center"/>
 
           *This work presents a human-centric interactive exploration and assistance framework under limited communication. 
           Robots can switch between exploration mode and assistance mode. 
@@ -117,7 +115,7 @@ content:
             ration and Supervision Under Scarce Communication. Robotics: Science and Systems (**RSS**), Delft,
             Netherlands, 2024.
 
-          ![img](/images/rss.png )
+          <img src="/images/rss.png" width="80%" align="center"/>
 
           *This work proposes an interactive human-oriented online coordination framework for
           collaborative exploration and supervision under scarce communication. The human operator 
@@ -125,8 +123,8 @@ content:
 
           - **Yuyang Zhang**, Meng Guo. Online Planning of Uncertain MDPs under Temporal Tasks and Safe
             Return Constraints. IEEE Conference on Decision and Control (**CDC**), Cancun, Mexico, 2022.
-
-          ![img](/images/cdc.png )
+          
+          <img src="/images/cdc.png" width="80%" align="center"/>
 
           *This work addresses the online motion planning problem of mobile robots under complex high-level tasks.
           The robot motion is modeled as an uncertain Markov Decision Process while the tasks are specified as LTL formulas.*
@@ -168,7 +166,7 @@ content:
             Zhejiang Sci-Tech University, 2018. ("One hundred Outstanding Bachelor's Theses"
             award of Zhejiang Sci-Tech University)
 
-          <img src="/images/bachelor.png" width="50%"/>
+          <img src="/images/bachelor.png" width="50%" align="center"/>
 
           *I developed an Android application to recognize the semantic information from a user's sketch and generate a 3D ceramic model 
           to assist the ceramic design.*
