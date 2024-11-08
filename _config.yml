@@ -177,20 +177,50 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        title: Human-robot collaborative exploration and task planning
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This project focuses on how to leverage the human operator's abilities to facilitate the multi-robot system in exploring and performing other tasks.
+
+        <div align = "center">
+          <img src="/images/1.gif" width="50%" align="center"/>
+        </div>
+
+      - layout: top-middle
+        title: Decomposition and planning of complex tasks described by natural language
+        description: | # this will include new lines to allow paragraphs
+          This project focuses on how to use natural language to interact with a multi-robot task planning system.
+
+      - layout: top-middle
+        title: Multi-robot dynamic capture
+        description: | # this will include new lines to allow paragraphs
+          This project focuses on the dynamic capture policies in multi-robot pursuit and evasion game.
+
+          <div align = "center">
+            <img src="/images/2.gif" width="50%" align="center"/>
+          </div>
+  
+      - layout: top-middle
+        title: Multi-robot exploration and inspection
+        description: | # this will include new lines to allow paragraphs
+          This project focuses on how to use heterogeneous UAVs to explore and inspect the interesting region.
+
+          <div align = "center">
+            <img src="/images/3.gif" width="50%" align="center"/>
+          </div>
+
+      - layout: top-middle
+        title: Deadlock resolution in multi-robot trajectory generation
+        description: | # this will include new lines to allow paragraphs
+          This project focuses on how to generate collision-free trajectories in multi-robot motion planning.
+
+      - layout: top-middle
+        title: Sketch-style ceramic modeling system
+        description: | # this will include new lines to allow paragraphs
+          This project focuses on how to recognize the semantic information from a user's sketch and generate a 3D ceramic model.
+
+          <div align = "center">
+            <img src="/images/4.gif" width="50%" align="center"/>
+          </div>
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -251,6 +281,41 @@ content:
         description: | # this will include new lines to allow paragraphs
           - **Outstanding Scientific Research Award**, College of Engineering, Peking University.
           - **Academic scholarship**, College of Engineering, Peking University.
+
+      - layout: right
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        caption: Jun 2018
+        description: | # this will include new lines to allow paragraphs
+          - **Outstanding graduates of Zhejiang Sci-Tech University**, Zhejiang Sci-Tech University.
+          - **"One hundred Outstanding Bachelor Papers" Award of Zhejiang Sci-Tech University**, Zhejiang Sci-Tech University.
+
+      - layout: right
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        caption: Nov 2017
+        description: | # this will include new lines to allow paragraphs
+          - **Third-class Scholarship**, Zhejiang Sci-Tech University.
+      
+      - layout: right
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        caption: Nov 2016
+        description: | # this will include new lines to allow paragraphs
+          - **Merit student**, Zhejiang Sci-Tech University.
+          - **Second-class Scholarship**, Zhejiang Sci-Tech University.
+
+      - layout: right
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        caption: Nov 2015
+        description: | # this will include new lines to allow paragraphs
+          - **Second-class Scholarship**, Zhejiang Sci-Tech University.
+
 
 
 # Footer
