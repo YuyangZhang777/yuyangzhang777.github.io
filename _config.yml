@@ -200,7 +200,7 @@ content:
           I took part in the software interface design, code testing and real robots experiments.
 
           <div align = "center">
-            <img src="/images/2.gif" width="40%" align="center"/>
+            <img src="/images/2.gif" width="30%" align="center"/>
           </div>
   
       - layout: top-middle
@@ -226,7 +226,7 @@ content:
           This is the project for my bachelor thesis, which I completed on my own.
 
           <div align = "center">
-            <img src="/images/4.gif" width="25%" align="center"/>
+            <img src="/images/4.gif" width="20%" align="center"/>
           </div>
 
   - title: Skills # Title for the section
