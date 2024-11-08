@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm currently a third year master student in Peking University,
   specializing in robotics. I work in Meng's lab, led by Assistant Professor Meng Guo. 
   
-  My research work includes multi-robot systems, human-robot collaboration and, task and motion planning for robots. 
+  My research includes multi-robot systems, human-robot collaboration, and task and motion planning for robots. 
   I have published two papers in top conferences(**CDC** and **RSS**), and my third paper is currently under review at **ICRA**. 
   I have worked on many robotics projects and am familiar with <mark>ROS</mark>.
   I have designed and developed many algorithms and carried out a lot of simulation and real robots experiments on <mark>UGVs</mark> and <mark>UAVs</mark>.
@@ -196,7 +196,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:          Experiments
+        title: Experiments
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
@@ -205,7 +205,7 @@ content:
             Design and implementation of robotics algorithms, rich experience in simulation and real robots experiments.
 
       - layout: left
-        title:          Languages
+        title: Languages
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
@@ -214,7 +214,7 @@ content:
             Mandarin (native), English (fluent).
 
       - layout: left
-        title:          Coding
+        title: Coding
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
@@ -223,7 +223,7 @@ content:
             Python, C/C++, Java, ROS development, Android development, Web development.
       
       - layout: left
-        title:          Others
+        title: Others
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
@@ -235,7 +235,7 @@ content:
   - title: Honors and Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: right
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
@@ -243,7 +243,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - **Academic scholarship**, College of Engineering, Peking University
 
-      - layout: top-middle
+      - layout: right
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
