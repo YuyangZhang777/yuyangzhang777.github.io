@@ -180,6 +180,8 @@ content:
         title: Human-robot collaborative exploration and task planning
         description: | # this will include new lines to allow paragraphs
           This project focuses on how to leverage the human operator's abilities to facilitate the multi-robot system in exploring and performing other tasks.
+          As the main person in charge of the project, I participated in the literature research,
+          design of algorithm and experiment, and carried out the simulation and real robots experiments.
 
           <div align = "center">
             <img src="/images/1.gif" width="50%" align="center"/>
@@ -189,11 +191,13 @@ content:
         title: Decomposition and planning of complex tasks described by natural language
         description: | # this will include new lines to allow paragraphs
           This project focuses on how to use natural language to interact with a multi-robot task planning system.
+          I participated in the design of algorithms for natural language input and decomposition of complex tasks.
 
       - layout: top-middle
         title: Multi-robot dynamic capture
         description: | # this will include new lines to allow paragraphs
           This project focuses on the dynamic capture policies in multi-robot pursuit and evasion game.
+          I took part in the software interface design, code testing and real robots experiments.
 
           <div align = "center">
             <img src="/images/2.gif" width="50%" align="center"/>
@@ -203,6 +207,7 @@ content:
         title: Multi-robot exploration and inspection
         description: | # this will include new lines to allow paragraphs
           This project focuses on how to use heterogeneous UAVs to explore and inspect the interesting region.
+          I participated in the literature research and design of path planning part.
 
           <div align = "center">
             <img src="/images/3.gif" width="50%" align="center"/>
@@ -212,11 +217,13 @@ content:
         title: Deadlock resolution in multi-robot trajectory generation
         description: | # this will include new lines to allow paragraphs
           This project focuses on how to generate collision-free trajectories in multi-robot motion planning.
+          I took part in the real robots experiments.
 
       - layout: top-middle
         title: Sketch-style ceramic modeling system
         description: | # this will include new lines to allow paragraphs
           This project focuses on how to recognize the semantic information from a user's sketch and generate a 3D ceramic model.
+          This is the project for my bachelor thesis, which I completed on my own.
 
           <div align = "center">
             <img src="/images/4.gif" width="50%" align="center"/>
