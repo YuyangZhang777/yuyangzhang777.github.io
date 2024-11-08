@@ -181,9 +181,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           This project focuses on how to leverage the human operator's abilities to facilitate the multi-robot system in exploring and performing other tasks.
 
-        <div align = "center">
-          <img src="/images/1.gif" width="50%" align="center"/>
-        </div>
+          <div align = "center">
+            <img src="/images/1.gif" width="50%" align="center"/>
+          </div>
 
       - layout: top-middle
         title: Decomposition and planning of complex tasks described by natural language
